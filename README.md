@@ -1,5 +1,5 @@
 ![image](image-Page-3.jpg)
-# Dynamic eCommerce Website on AWS
+# eCommerce Website Deployment on AWS
 
 ## Overview
 
