@@ -1,4 +1,4 @@
-![image](image-Page-3.jpg)
+![image](ref-image.jpg)
 # eCommerce Website Deployment on AWS
 
 ## Overview
